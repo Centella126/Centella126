@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hola, soy [Tu Nombre o Alias] 👋</h1>
 
-<!--
-**Centella126/Centella126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://ruta_a_tu_banner.png" alt="Banner Personalizado" width="800px">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://ruta_a_tu_foto_perfil.png" alt="Foto de Perfil" width="150px" style="border-radius:50%;">
+</p>
+
+<p align="center">
+  ⭐ Desarrollador de Software <br>
+  🚀 Creando contenido y proyectos innovadores. <br>
+  ✨ Compartiendo conocimiento en <a href="https://tu_youtube.com">YouTube</a> y <a href="https://tu_twitch.com">Twitch</a>. <br>
+</p>
+
+---
+
+### 🔗 Redes Sociales y Contacto
+<p align="center">
+  <a href="https://github.com/tu_usuario"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://youtube.com/tu_canal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://twitch.tv/tu_canal"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+</p>
+
+---
+
+### Sobre mí
+- 🎯 **Enfoque actual**: Desarrollo móvil y proyectos Open Source.
+- 📚 **Siempre aprendiendo**: Kotlin, Flutter, Python.
+- 🎥 **Creando contenido**: Videos tutoriales en YouTube.
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical">
+</p>
+
+
