@@ -1,13 +1,13 @@
 <h1 align="center">Hola, soy [Tu Nombre o Alias] 👋</h1>
 
 <p align="center">
-  <img src="https://ruta_a_tu_banner.png" alt="Banner Personalizado" width="800px">
+  <img src="https://i.imgur.com/19a4nxB.png" alt="Banner Personalizado" width="800px">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://ruta_a_tu_foto_perfil.png" alt="Foto de Perfil" width="150px" style="border-radius:50%;">
+  <img src="https://i.imgur.com/j0DGxgJ.png" alt="Foto de Perfil" width="150px" style="border-radius:50%;">
 </p>
 
 <p align="center">
@@ -36,8 +36,8 @@
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Centella126&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Centella126&layout=compact&theme=radical">
 </p>
 
 
