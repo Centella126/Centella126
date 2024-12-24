@@ -7,9 +7,7 @@
 ---
 
 <p align="center">
-  ⭐ Desarrollador de Software <br>
   🚀 Creando contenido y proyectos innovadores. <br>
-  ✨ Compartiendo conocimiento en <a href="https://tu_youtube.com">YouTube</a> y <a href="https://tu_twitch.com">Twitch</a>. <br>
 </p>
 
 ---
@@ -23,9 +21,8 @@
 ---
 
 ### Sobre mí
-- 🎯 **Enfoque actual**: Desarrollo móvil y proyectos Open Source.
-- 📚 **Siempre aprendiendo**: Kotlin, Flutter, Python.
-- 🎥 **Creando contenido**: Videos tutoriales en YouTube.
+- 🎯 **Enfoque actual**: Desarrollo de páginas Web.
+- 📚 **Siempre aprendiendo**
 
 ---
 
@@ -41,9 +38,6 @@
 <a href="https://github.com/TUPROYECTO" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/ENLACE_VIDEO" target="_blank">
-<img src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
 <p>Descripción breve de tu proyecto, destacando por qué es especial o útil.</p>
 </div>
@@ -56,9 +50,6 @@
 <p>
 <a href="https://github.com/TUPROYECTO2" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/ENLACE_VIDEO2" target="_blank">
-<img src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 <p>Breve explicación sobre tu segundo proyecto, enfocándote en su impacto o características únicas.</p>
