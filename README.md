@@ -1,14 +1,10 @@
-<h1 align="center">Hola, soy [Tu Nombre o Alias] 👋</h1>
+<h1 align="center">Hola, soy Anahí Vázquez 👋</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/19a4nxB.png" alt="Banner Personalizado" width="800px">
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/j0DGxgJ.png" alt="Foto de Perfil" width="150px" style="border-radius:50%;">
-</p>
 
 <p align="center">
   ⭐ Desarrollador de Software <br>
@@ -20,9 +16,8 @@
 
 ### 🔗 Redes Sociales y Contacto
 <p align="center">
-  <a href="https://github.com/tu_usuario"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://youtube.com/tu_canal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://twitch.tv/tu_canal"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="mailto:05centella@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="www.linkedin.com/in/anahi-vp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -33,6 +28,44 @@
 - 🎥 **Creando contenido**: Videos tutoriales en YouTube.
 
 ---
+
+## 🌟 Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">[Proyecto 1]</h3>
+<div align="center">
+<a href="https://github.com/TUPROYECTO" target="_blank"><img src="https://i.imgur.com/IMAGEN_PROYECTO1.png" width="400" alt="Imagen Proyecto 1"></a>
+<p>
+<a href="https://github.com/TUPROYECTO" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/ENLACE_VIDEO" target="_blank">
+<img src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Descripción breve de tu proyecto, destacando por qué es especial o útil.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">[Proyecto 2]</h3>
+<div align="center">
+<a href="https://github.com/TUPROYECTO2" target="_blank"><img src="https://i.imgur.com/IMAGEN_PROYECTO2.png" width="400" alt="Imagen Proyecto 2"></a>
+<p>
+<a href="https://github.com/TUPROYECTO2" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/ENLACE_VIDEO2" target="_blank">
+<img src="https://img.shields.io/badge/-YouTube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+<p>Breve explicación sobre tu segundo proyecto, enfocándote en su impacto o características únicas.</p>
+</div>
+</td>
+</tr>
+</table>
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
