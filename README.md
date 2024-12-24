@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Descripción breve de tu proyecto, destacando por qué es especial o útil.</p>
+<p>Descripción breve.</p>
 </div>
 </td>
 
@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Breve explicación sobre tu segundo proyecto, enfocándote en su impacto o características únicas.</p>
+<p>Breve explicación.</p>
 </div>
 </td>
 </tr>
