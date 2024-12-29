@@ -31,9 +31,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">[Proyecto 1]</h3>
+<h3 align="center">CAD</h3>
 <div align="center">
-<a href="https://github.com/TUPROYECTO" target="_blank"><img src="https://i.imgur.com/IMAGEN_PROYECTO1.png" width="400" alt="Imagen Proyecto 1"></a>
+<a href="https://github.com/Centella126/CAD" target="_blank"><img src="https://i.imgur.com/bMFM01F.jpeg" width="400" alt="Imagen Proyecto 1"></a>
 <p>
 <a href="https://github.com/TUPROYECTO" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
