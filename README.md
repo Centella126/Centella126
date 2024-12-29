@@ -35,11 +35,11 @@
 <div align="center">
 <a href="https://github.com/Centella126/CAD" target="_blank"><img src="https://i.imgur.com/bMFM01F.jpeg" width="400" alt="Imagen Proyecto 1"></a>
 <p>
-<a href="https://github.com/TUPROYECTO" target="_blank">
+<a href="https://github.com/Centella126/CAD" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Descripción breve.</p>
+<p>This repository showcases different shapes and pieces created in AutoCAD.</p>
 </div>
 </td>
 
