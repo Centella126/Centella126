@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Anahí Vázquez 👋</h1>
+<h1 align="center">Hello, this is Anahí👋</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/19a4nxB.png" alt="Banner Personalizado" width="800px">
@@ -7,26 +7,31 @@
 ---
 
 <p align="center">
-  🚀 Creando contenido y proyectos innovadores. <br>
+  🚀 Passionate about innovation, technology, and continuous learning. Currently studying **Mechatronics Engineering** and developing impactful projects.
 </p>
 
 ---
 
-### 🔗 Redes Sociales y Contacto
+### 🔗 Connect With Me
 <p align="center">
-  <a href="mailto:05centella@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:anahi.vazquez.pa05@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/anahi-vp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-### Sobre mí
-- 🎯 **Enfoque actual**: Desarrollo de páginas Web.
-- 📚 **Siempre aprendiendo**
+### About Me
+- 🎯 **Current Focus:** Developing innovative projects across multiple technologies.
+- 🎓 **Studies**: Currently pursuing a degree in Mechatronics Engineering.
+- 💻 **Languages Used:** Python, C, C++, Java, MATLAB, PHP, JavaScript, Assembly, Prolog.
+- 🛠️ **Platforms:** Raspberry Pi, Arduino, MATLAB, Simulink, AutoCAD, Multisim, LabVIEW.
+- 🔧 **Boards and Hardware:** MSP430F5529LP, Arduino Uno, Raspberry Pi 4.
+- 📊 **Technologies:** G-code, MySQL, Artificial Neural Networks, CLIPS.
+- 📚 **Always Learning**: Constantly exploring new technologies and improving my skills.
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🌟 Outstanding Projects
 
 <table>
 <tr>
@@ -44,21 +49,21 @@
 </td>
 
 <td width="50%">
-<h3 align="center">[Proyecto 2]</h3>
+<h3 align="center">Digital Control</h3>
 <div align="center">
-<a href="https://github.com/TUPROYECTO2" target="_blank"><img src="https://i.imgur.com/IMAGEN_PROYECTO2.png" width="400" alt="Imagen Proyecto 2"></a>
+<a href="https://github.com/Centella126/Digital-Control" target="_blank"><img src="https://i.imgur.com/IRti7Zm.png" width="400" alt="Imagen Proyecto 2"></a>
 <p>
-<a href="https://github.com/TUPROYECTO2" target="_blank">
+<a href="https://github.com/Centella126/Digital-Control" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Breve explicación.</p>
+<p>Digital Control projects focused on pole placement, developed using Simulink, MATLAB, and Arduino.</p>
 </div>
 </td>
 </tr>
 </table>
 
-### 📊 Estadísticas de GitHub
+### 📊 Statistics 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Centella126&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Centella126&layout=compact&theme=radical">
