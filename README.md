@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  🚀 Passionate about innovation, technology, and continuous learning. Currently studying **Mechatronics Engineering** and developing impactful projects.
+  🚀 Passionate about innovation, technology, and continuous learning. Currently studying Mechatronics Engineering and developing impactful projects.
 </p>
 
 ---
