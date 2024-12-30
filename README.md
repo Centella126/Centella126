@@ -66,7 +66,7 @@
 ### 📊 Statistics
 <p align="center">
   <a href="https://github.com/Centella126/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Centella126&layout=compact" alt="Top Languages" width="600"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Centella126&layout=compact" alt="Top Languages" width="400"/>
   </a>
 </p>
 
