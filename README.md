@@ -67,8 +67,5 @@
 <p align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Centella126&langs_count=8)](https://github.com/Centella126/github-readme-stats)
 </p>
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Centella126&layout=compact)](https://github.com/Centella126/github-readme-stats)
-</p>
 
 
